@@ -1,14 +1,13 @@
-### Boas vindas ao meu perfil 💙💙
+### Boas vindas.
 
-Meu nome é Marcos Paulo
+Marcos Paulo, 18 Anos
 
-- Estou estudando na [Alura](https://www.alura.com.br)
-- Estou me desenvolvendo na linguagem Javascript
-- Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
+- Estudante de Engenharia da Computação
+- Aprendendo programação em linguagens simples (C+, Java)
+- Conta dedicada aos projetos do curso de engenharia
 
-### Você pode entrar em contato comigo 📫
-milok879@gmail.com
-
-@crystalhoward
+### Canais de contato 📫
+Email: milok879@gmail.com
+Discord: crystalhoward
 
 ![](https://media1.tenor.com/m/abKy5x4Q3G8AAAAC/testament-guilty-gear.gif)
